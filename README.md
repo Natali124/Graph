@@ -31,6 +31,3 @@ All the above files can be downloaded from this repository.
 
 You can run both notebooks directly in **Google Colab**. Ensure the required files and datasets are available as mentioned above. For the synthetic data experiment, make sure both `data_generation.py` and `synthetic_model.py` are in the same directory as the notebook.
 
----
-
-This should be easy to copy directly into your `README.md` file!
